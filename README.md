@@ -53,9 +53,5 @@ Instead of looking solely at lagging, static historical charts, this portal acts
 
 ---
 
-
-
----
-
 ## 💡 Business Impact
 Instead of looking solely at lagging, static historical charts, this portal acts as a proactive operational assistant. Restaurant managers can instantly identify supply chain vulnerabilities, protect local kitchen margins, and ensure 100% ingredient availability across online food aggregators and dine-in locations.
