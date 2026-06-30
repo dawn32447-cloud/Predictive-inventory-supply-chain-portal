@@ -55,7 +55,8 @@ The full script is available in the query.sql file in this repository, structure
 
 ## 💡 Business Impact
 Instead of looking solely at lagging, static historical charts, this portal acts as a proactive operational assistant. Restaurant managers can instantly identify supply chain vulnerabilities, protect local kitchen margins, and ensure 100% ingredient availability across online food aggregators and dine-in locations. - Full-screen production snapshot of the historical financial performance layout.
-* Page2_Supply_Chain_Dashboard.png - Full-screen production snapshot of the operational inventory risk portal.
+* <img width="1290" height="723" alt="Screenshot 2026-06-30 202852" src="https://github.com/user-attachments/assets/67d93eae-07be-4902-a287-9d5676eb3182" />
+
 
 ---
 
