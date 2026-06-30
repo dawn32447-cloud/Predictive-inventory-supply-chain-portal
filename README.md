@@ -43,12 +43,9 @@ The full script is available in the query.sql file in this repository, structure
 * Outlet Filter (Slicer): Allows regional operations managers to dynamically isolate and analyze specific restaurant hubs.
 * Demand Volatility Visual: A Clustered Column Chart capturing volume distribution metrics across core menu items.
 * Predictive Runout Grid: A live operational risk table utilizing a custom DAX measure (`Days of Supply`) to automatically flag any menu item dropping below critical buffer thresholds (under 8.5 days of supply) in real-time.
-
 ---
 
-## 💡 Business Impact
-Instead of looking solely at lagging, static historical charts, this portal acts as a proactive operational assistant. Restaurant managers can instantly identify supply chain vulnerabilities, protect local kitchen margins, and ensure 100% ingredient availability across online food aggregators and dine-in locations. - Full-screen production snapshot of the historical financial performance layout.
-* <img width="1290" height="723" alt="Screenshot 2026-06-30 202852" src="https://github.com/user-attachments/assets/67d93eae-07be-4902-a287-9d5676eb3182" />
+#
 
 
 ---
