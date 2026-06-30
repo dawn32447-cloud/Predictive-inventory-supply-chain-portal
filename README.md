@@ -20,6 +20,9 @@ To protect corporate data privacy, the raw datasets are withheld. The complete e
 * query.sql - The complete, optimized production SQL script containing database schemas, primary/foreign key definitions, and analytical data population queries.
 <img width="1307" height="742" alt="Screenshot 2026-06-30 202820" src="https://github.com/user-attachments/assets/e2e936f2-e22b-4432-a952-07a9f3469449" />
 
+
+
+
 <img width="1290" height="723" alt="Screenshot 2026-06-30 202852" src="https://github.com/user-attachments/assets/73d3c09a-3235-44b0-9e81-a43c7ae6fbcb" />
 
 
